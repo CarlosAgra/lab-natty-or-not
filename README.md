@@ -20,22 +20,27 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# E-book: O Brilho da Esperança ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei um ebook com 5 páginas com a história da pequena Sofia, uma garota que vive em uma ilha e sentia-se abandonada após seu amigo de infância deixa-la para conhecer o mundo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+LeonardoIA
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pensei em uma história interessante, envolvendo desenho pois acredito que consegue passar mais emoções que pessoas reais.
+Utilizei o chatGPT para ajudar a fazer o resumo de forma que coubesse em 5 páginas.
+Para as imagens utilizei o LeonardoIA, infelizmente a versão free tem pouca precisão, então tive dificuldade para poder deixar mais fiel, então fiz algumas adaptações.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O ebook contém 5 páginas que apresentam a garota Sofia, Max que foi um presente de seu amigo Carlos e o reencontro deles após meses sem contato.
+Apesar de curta, acredito que ficou tocante, demonstrando uma amizade verdadeira, carinho, fidelidade e a busca pelo que atrai de verdade seu coração no momento que Carlos retorna para Sofia mesmo após conhecer o mundo fora da ilha, assim como o caminhar de Sofia no aguardo de seu amigo que acabou virando seu marido.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Mesmo chegando no bootcamp com apenas 1 semana e muitas coisas, foquei em cumprir com os requisitos, aprender o que foi passado e entregar utilizando as ferramentas pedidas. Acredito que o tempo foi meu maior desafio, mas aimda sim o mundo da IA é incrível, a criação de imagens a partir de textos, histórias a partir de pequenas palavras, vídeos, reconhecimento facial...ah as IAs...
+Sem dúvida algo que desejo me aprofundar e virar um expert.
 ```
 
 ### Exemplos e Insigths
